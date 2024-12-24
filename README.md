@@ -1,7 +1,3 @@
-<div class="animated-element">
-    Welcome to My Website!
-</div>
-
 # Mohammad Al-Shrouf 🌟  
 ### Regional Product Management Assistant | Agile Practitioner | Social Media Strategist  
 
